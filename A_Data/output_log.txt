@@ -1,0 +1,50 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jacques\Documents\ZiggleBell2015\ABC_Windows\ABC_Prototype_2\A_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jacques\Documents\ZiggleBell2015\ABC_Windows\ABC_Prototype_2\A_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jacques\Documents\ZiggleBell2015\ABC_Windows\ABC_Prototype_2\A_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jacques\Documents\ZiggleBell2015\ABC_Windows\ABC_Prototype_2\A_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jacques\Documents\ZiggleBell2015\ABC_Windows\ABC_Prototype_2\A_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Jacques\Documents\ZiggleBell2015\ABC_Windows\ABC_Prototype_2\A_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1633)
+
+Pressed right click for Rotate.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Pressed right click for Rotate.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Pressed right click for Ants.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Pressed right click for Rotate.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Pressed Mouse for Anaconda
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Pressed right click for Rotate.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Pressed right click for Rotate.
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
